@@ -34,7 +34,7 @@
 
 .bottomPanel {
   background-color: black;
-  height: 600px;
+  height: 648px;
   width: 1440px;
   z-index: -1;
 }
@@ -104,7 +104,7 @@ button.searchButton:active {
 
 .result {
   font-size: 25px;
-  width: 180px;
+  width: 200px;
 }
 
 .divider {
